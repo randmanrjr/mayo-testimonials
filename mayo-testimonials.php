@@ -21,7 +21,7 @@ if (! function_exists('mayo_testimonials_post_type')) {
         $labels = array(
             'name'              => 'Testimonials',
             'singular_name'     => 'Testimonial',
-            'menu_name'         => 'Testimonial',
+            'menu_name'         => 'Testimonials',
             'name_admin_bar'    => 'Testimonial',
             'add_new'           => 'New Testimonial',
             'add_new_item'      => 'Add New Testimonial'
