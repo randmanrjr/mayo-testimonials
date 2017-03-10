@@ -44,4 +44,3 @@ if (! function_exists('mayo_testimonials_post_type')) {
     }
 
 }
-
